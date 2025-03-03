@@ -1065,13 +1065,10 @@ h6 {
   }
 
   .chat-input-section {
-    /* position: fixed;
-    bottom: 0; */
+    position: fixed;
+    bottom: 0;
     background-color: #fff;
   }
 
-  /* .chat-conversation {
-    height: calc(100vh - 170px);
-  } */
-
+  upup
 }
