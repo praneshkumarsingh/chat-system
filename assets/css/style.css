@@ -1065,8 +1065,8 @@ h6 {
   }
 
   .input-section-inner {
-    position: fixed;
-    bottom: 0;
+    /* position: fixed;
+    bottom: 0; */
     background-color: #fff;
   }
 
