@@ -901,6 +901,8 @@ h6 {
   box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
   transition: right 0.3s ease-in-out;
   z-index: 9;
+  position: fixed;
+  bottom: 0;
 }
 
 .profile-sidebar.active {
@@ -947,6 +949,8 @@ h6 {
     height: auto;
     justify-content: space-around;
     align-items: center;
+    position: fixed;
+    bottom: 0;
   }
 
   .navbar-brand-box {
@@ -1053,4 +1057,19 @@ h6 {
     display: block;
     text-align: center;
   }
+
+  .user-chatinfo {
+    min-width: auto;
+    max-width: 100%;
+  }
+
+  .input-section-inner {
+    position: fixed;
+    bottom: 0;
+  }
+
+  .chat-conversation {
+    height: calc(100vh - 170px);
+  }
+
 }
