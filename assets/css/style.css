@@ -415,6 +415,7 @@ h6 {
   padding: 1.5rem;
   /* justify-content: space-between; */
   border-top: 1px solid #f0eff5;
+  background-color: #fff;
 }
 
 .chat-input-btn ul {
@@ -1066,6 +1067,7 @@ h6 {
   .input-section-inner {
     position: fixed;
     bottom: 0;
+    background-color: #fff;
   }
 
   /* .chat-conversation {
