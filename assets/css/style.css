@@ -1068,8 +1068,8 @@ h6 {
     bottom: 0;
   }
 
-  .chat-conversation {
+  /* .chat-conversation {
     height: calc(100vh - 170px);
-  }
+  } */
 
 }
