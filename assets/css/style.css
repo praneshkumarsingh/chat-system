@@ -1071,7 +1071,7 @@ h6 {
   }
 
   .chat-conversation {
-    height: calc(100vh - 170px);
+    margin-bottom: 2rem;
   }
 
 }
