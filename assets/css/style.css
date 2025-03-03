@@ -1072,6 +1072,11 @@ h6 {
 
   .input-section-inner {
     padding: 0.8rem;
+  }
 
+  .chat-input-btn .input-btn {
+    height: 35px;
+    width: 40px;
+    line-height: 35px;
   }
 }
