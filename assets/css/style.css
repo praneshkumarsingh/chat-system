@@ -1064,9 +1064,9 @@ h6 {
     max-width: 100%;
   }
 
-  .input-section-inner {
-    /* position: fixed;
-    bottom: 0; */
+  .chat-input-section {
+    position: fixed;
+    bottom: 0;
     background-color: #fff;
   }
 
