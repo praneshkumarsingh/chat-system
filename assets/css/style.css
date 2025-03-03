@@ -1070,8 +1070,8 @@ h6 {
     background-color: #fff;
   }
 
-  .chat-conversation {
-    margin-bottom: 2rem;
-  }
+  .input-section-inner {
+    padding: 0.8crem;
 
+  }
 }
