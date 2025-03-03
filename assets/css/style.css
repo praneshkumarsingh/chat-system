@@ -1070,5 +1070,8 @@ h6 {
     background-color: #fff;
   }
 
-  upup
+  .chat-conversation {
+    height: calc(100vh - 170px);
+  }
+
 }
